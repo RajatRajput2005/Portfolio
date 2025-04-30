@@ -44,7 +44,7 @@ You can see a live demo of the portfolio website at : https://3d-portfolio-rouge
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/divi-24/3D-Portfolio
+git clone (https://github.com/RajatRajput2005/-Portfolio)
 ```
 
 2. Change to the project directory:
@@ -79,4 +79,4 @@ The project structure is organized as follows:
 
 ## Author
 
--   [@divi-24](https://github.com/divi-24)
+-   [@rajat-singh](https://portfolio-brown-tau-68.vercel.app/)
